@@ -1,6 +1,7 @@
 import datetime
-
 import requests
+
+
 
 time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 def getData(url, sources_dataName):
@@ -25,18 +26,18 @@ def getData(url, sources_dataName):
 
 def getAllData(file1, file2, Live):
     # 打开第一个文件并读取内容
-    with open(file1, 'r') as file1:
+    with open(file1, 'r',encoding='utf-8') as file1:
         content1 = file1.read()
 
     # 打开第二个文件并读取内容
-    with open(file2, 'r') as file2:
+    with open(file2, 'r',encoding='utf-8') as file2:
         content2 = file2.read()
 
     # 合并文件内容
     combined_content = content1 + '\n' + content2
 
     # 将合并后的内容写入新文件
-    with open(Live, 'w') as combined_file:
+    with open(Live, 'w',encoding='utf-8') as combined_file:
         combined_file.write(combined_content)
         writelog('合并写入完成！')
 
@@ -64,8 +65,9 @@ def writelog(info):
 
 if __name__ == "__main__":
     writelog("---------------------" + "start " + time +"-----------------------------")
-    getData('https://gitee.com/cao-yun-88/tv/raw/master/tv/iptv', "cctv.txt")
-    getData('http://aktv.top/live.m3u', "hktv.txt")
-    getAllData("cctv.txt", "hktv.txt", "allData.txt")
-    convert_encoding("allData.txt", "liveipv6.txt")
+    getData('https://gitee.com/cao-yun-88/tv/raw/master/tv/iptv', "oldcctv.txt")
+    getData('http://aktv.top/live.m3u', "oldhktv.txt")
+    convert_encoding("oldcctv.txt", "cctv.txt")
+    convert_encoding("oldhktv.txt", "hktv.txt")
+    getAllData("cctv.txt", "hktv.txt", "live_ipv6.txt")
     writelog("---------------------" + "end... " + time + "-----------------------------")

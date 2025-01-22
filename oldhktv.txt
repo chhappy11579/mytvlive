@@ -1,52 +1,52 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 
-#EXTINF:-1 tvg-name="ä¸­å¤©æ–°èå°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ä¸­å¤©æ–°èå°
+#EXTINF:-1 tvg-name="ÖĞÌìĞÂÂ„Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ÖĞÌìĞÂÂ„Ì¨
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-name="ç¿¡ç¿ å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ç¿¡ç¿ å°
+#EXTINF:-1 tvg-name="ôä´äÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ôä´äÌ¨
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS-æ–°èå°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS-æ–°èå°
+#EXTINF:-1 tvg-name="TVBS-ĞÂÂ„Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS-ĞÂÂ„Ì¨
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="å¯°å®‡æ–°èå°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",å¯°å®‡æ–°èå°
+#EXTINF:-1 tvg-name="å¾ÓîĞÂÂ„Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",å¾ÓîĞÂÂ„Ì¨
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-name="é³³å‡°ä¸­æ–‡" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é³³å‡°ä¸­æ–‡
+#EXTINF:-1 tvg-name="øP»ËÖĞÎÄ" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",øP»ËÖĞÎÄ
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-name="æ— çº¿æ–°é—»å°(åŒ—ç¾)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",æ— çº¿æ–°é—»å°(åŒ—ç¾)
+#EXTINF:-1 tvg-name="ÎŞÏßĞÂÎÅÌ¨(±±ÃÀ)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ÎŞÏßĞÂÎÅÌ¨(±±ÃÀ)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="é³³å‡°è³‡è¨Š" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é³³å‡°è³‡è¨Š
+#EXTINF:-1 tvg-name="øP»ËÙYÓ" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",øP»ËÙYÓ
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="ç„¡ç·šæ–°èå°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ç„¡ç·šæ–°èå°
+#EXTINF:-1 tvg-name="Ÿo¾€ĞÂÂ„Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Ÿo¾€ĞÂÂ„Ì¨
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="ç¾äºé›»å½±å°(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ç¾äºé›»å½±å°(HK)
+#EXTINF:-1 tvg-name="ÃÀ†ëŠÓ°Ì¨(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ÃÀ†ëŠÓ°Ì¨(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="æ˜ç å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",æ˜ç å°
+#EXTINF:-1 tvg-name="Ã÷ÖéÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Ã÷ÖéÌ¨
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="æ±æ£®æ–°è" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",æ±æ£®æ–°è
+#EXTINF:-1 tvg-name="–|É­ĞÂÂ„" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",–|É­ĞÂÂ„
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="é³³å‡°é¦™æ¸¯" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é³³å‡°é¦™æ¸¯
+#EXTINF:-1 tvg-name="øP»ËÏã¸Û" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",øP»ËÏã¸Û
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="ä¸­å¤©äºæ´²å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ä¸­å¤©äºæ´²å°
+#EXTINF:-1 tvg-name="ÖĞÌì†ÖŞÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ÖĞÌì†ÖŞÌ¨
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-name="ç¿¡ç¿ ç»¼åˆå°(åŒ—ç¾)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ç¿¡ç¿ ç»¼åˆå°(åŒ—ç¾)
+#EXTINF:-1 tvg-name="ôä´ä×ÛºÏÌ¨(±±ÃÀ)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ôä´ä×ÛºÏÌ¨(±±ÃÀ)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-name="åƒç¦§ç¶“å…¸å°(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",åƒç¦§ç¶“å…¸å°(HK)
+#EXTINF:-1 tvg-name="Ç§ìû½›µäÌ¨(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Ç§ìû½›µäÌ¨(HK)
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name="ç¿¡ç¿ å‰§é›†å°(åŒ—ç¾)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ç¿¡ç¿ å‰§é›†å°(åŒ—ç¾)
+#EXTINF:-1 tvg-name="ôä´ä¾ç¼¯Ì¨(±±ÃÀ)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ôä´ä¾ç¼¯Ì¨(±±ÃÀ)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-name="å¨›æ¨‚æ–°èå°(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",å¨›æ¨‚æ–°èå°(HK)
+#EXTINF:-1 tvg-name="ŠÊ˜·ĞÂÂ„Ì¨(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ŠÊ˜·ĞÂÂ„Ì¨(HK)
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="é»ƒé‡‘ç¿¡ç¿ å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é»ƒé‡‘ç¿¡ç¿ å°
+#EXTINF:-1 tvg-name="üS½ğôä´äÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",üS½ğôä´äÌ¨
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-name="myTV SUPER 18å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",myTV SUPER 18å°
+#EXTINF:-1 tvg-name="myTV SUPER 18Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",myTV SUPER 18Ì¨
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-name="ä¸­è¦–" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ä¸­è¦–
+#EXTINF:-1 tvg-name="ÖĞÒ•" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ÖĞÒ•
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-name="æ˜ç å‰§é›†å°(åŒ—ç¾)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",æ˜ç å‰§é›†å°(åŒ—ç¾)
+#EXTINF:-1 tvg-name="Ã÷Öé¾ç¼¯Ì¨(±±ÃÀ)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Ã÷Öé¾ç¼¯Ì¨(±±ÃÀ)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
@@ -54,19 +54,19 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="viutv 99" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-name="é–å¤©é›»å½±å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é–å¤©é›»å½±å°
+#EXTINF:-1 tvg-name="¾¸ÌìëŠÓ°Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",¾¸ÌìëŠÓ°Ì¨
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="è¯è¦–" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",è¯è¦–
+#EXTINF:-1 tvg-name="ÈAÒ•" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ÈAÒ•
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-name="28 AI æ™ºæ…§è³½é¦¬" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",28 AI æ™ºæ…§è³½é¦¬
+#EXTINF:-1 tvg-name="28 AI ÖÇ»ÛÙñR" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",28 AI ÖÇ»ÛÙñR
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-name="é¾è¯é›»å½±å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é¾è¯é›»å½±å°
+#EXTINF:-1 tvg-name="ıˆÈAëŠÓ°Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ıˆÈAëŠÓ°Ì¨
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-name="é¾è¯ç¶“å…¸å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é¾è¯ç¶“å…¸å°
+#EXTINF:-1 tvg-name="ıˆÈA½›µäÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ıˆÈA½›µäÌ¨
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="viutv6 96" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv6 96
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
@@ -74,9 +74,9 @@ http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Animax(HK)
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="ç„¡ç·šè¡›æ˜Ÿæ–°èå°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ç„¡ç·šè¡›æ˜Ÿæ–°èå°
+#EXTINF:-1 tvg-name="Ÿo¾€ĞlĞÇĞÂÂ„Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Ÿo¾€ĞlĞÇĞÂÂ„Ì¨
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="é¾è¯æ—¥éŸ“å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",é¾è¯æ—¥éŸ“å°
+#EXTINF:-1 tvg-name="ıˆÈAÈÕínÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ıˆÈAÈÕínÌ¨
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
@@ -84,9 +84,9 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-name="DW" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-name="äºæ´²æ–°èå°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",äºæ´²æ–°èå°
+#EXTINF:-1 tvg-name="†ÖŞĞÂÂ„Ì¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",†ÖŞĞÂÂ„Ì¨
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="æ±æ–¹è¡›è¦–åœ‹éš›é »é“" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",æ±æ–¹è¡›è¦–åœ‹éš›é »é“
+#EXTINF:-1 tvg-name="–|·½ĞlÒ•‡øëHîlµÀ" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",–|·½ĞlÒ•‡øëHîlµÀ
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
@@ -96,13 +96,13 @@ http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",AXN
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 tvg-name="i-Fun å‹•æ¼«å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",i-Fun å‹•æ¼«å°
+#EXTINF:-1 tvg-name="i-Fun „ÓÂşÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",i-Fun „ÓÂşÌ¨
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 tvg-name="NHKæ±äº¬ç·åˆ" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHKæ±äº¬ç·åˆ
+#EXTINF:-1 tvg-name="NHK–|¾©¾tºÏ" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK–|¾©¾tºÏ
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
@@ -114,5 +114,5 @@ http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro AEC
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-#EXTINF:-1 tvg-name="çº¬æ¥ä½“è‚²å°" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",çº¬æ¥ä½“è‚²å°
+#EXTINF:-1 tvg-name="Î³À´ÌåÓıÌ¨" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Î³À´ÌåÓıÌ¨
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
