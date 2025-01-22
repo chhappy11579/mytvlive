@@ -64,7 +64,7 @@ def writelog(info):
 
 if __name__ == "__main__":
     writelog("---------------------" + "start " + time +"-----------------------------")
-    getData('https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u', "cctv.txt")
+    getData('https://gitee.com/cao-yun-88/tv/raw/master/tv/iptv', "cctv.txt")
     getData('http://aktv.top/live.m3u', "hktv.txt")
     getAllData("cctv.txt", "hktv.txt", "allData.txt")
     convert_encoding("allData.txt", "liveall.txt")
