@@ -22,8 +22,6 @@ def getData(url, sources_dataName):
     else:
         writelog('请求失败，状态码:', response.status_code)
 
-
-
 def getAllData(file1, file2, Live):
     # 打开第一个文件并读取内容
     with open(file1, 'r',encoding='utf-8') as file1:
@@ -65,9 +63,9 @@ def writelog(info):
 
 if __name__ == "__main__":
     writelog("---------------------" + "start " + time +"-----------------------------")
-    getData('https://gitee.com/cao-yun-88/tv/raw/master/tv/iptv', "oldcctv.txt")
-    getData('http://aktv.top/live.m3u', "oldhktv.txt")
-    convert_encoding("oldcctv.txt", "cctv.txt")
-    convert_encoding("oldhktv.txt", "hktv.txt")
-    getAllData("cctv.txt", "hktv.txt", "live_ipv6.txt")
+    getData('https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u', "oldcctv.m3u")
+    getData('http://aktv.top/live.m3u', "oldhktv.m3u")
+    convert_encoding("oldcctv.m3u", "cctv.m3u")
+    convert_encoding("oldhktv.m3u", "hktv.m3u")
+    getAllData("cctv.m3u", "hktv.m3u", "live_ipv6.m3u")
     writelog("---------------------" + "end... " + time + "-----------------------------")
