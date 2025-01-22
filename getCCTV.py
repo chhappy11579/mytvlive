@@ -67,5 +67,5 @@ if __name__ == "__main__":
     getData('https://gitee.com/cao-yun-88/tv/raw/master/tv/iptv', "cctv.txt")
     getData('http://aktv.top/live.m3u', "hktv.txt")
     getAllData("cctv.txt", "hktv.txt", "allData.txt")
-    convert_encoding("allData.txt", "liveall.txt")
+    convert_encoding("allData.txt", "liveipv6.txt")
     writelog("---------------------" + "end... " + time + "-----------------------------")
