@@ -63,8 +63,8 @@ def writelog(info):
 
 if __name__ == "__main__":
     writelog("---------------------" + "start " + time +"-----------------------------")
-    getData('https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u', "oldcctv.m3u")
-    getData('http://aktv.top/live.m3u', "oldhktv.m3u")
+    getData('http://192.168.1.101:5000/Sub?type=m3u', "oldcctv.m3u")
+    # getData('http://aktv.top/live.m3u', "oldhktv.m3u")
     convert_encoding("oldcctv.m3u", "cctv.m3u")
     convert_encoding("oldhktv.m3u", "hktv.m3u")
     getAllData("cctv.m3u", "hktv.m3u", "live_ipv6.m3u")
