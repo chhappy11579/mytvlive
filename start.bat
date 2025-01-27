@@ -1,2 +1,0 @@
-python getCCTV.py
-pause
